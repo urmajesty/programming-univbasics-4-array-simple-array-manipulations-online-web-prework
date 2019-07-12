@@ -12,5 +12,5 @@ end
 
 def pop_with_args(array)
   array.pop(2)
-  p @small_dogs
+  new_array
 end
