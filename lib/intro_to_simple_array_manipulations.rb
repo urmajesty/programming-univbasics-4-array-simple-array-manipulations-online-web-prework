@@ -14,3 +14,6 @@ def pop_with_args(array)
    small_dogs = array.pop(2)
   return small_dogs
 end
+
+def using_shift(array)
+  array.shift
