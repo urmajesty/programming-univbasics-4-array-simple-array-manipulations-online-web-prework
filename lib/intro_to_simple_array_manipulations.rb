@@ -25,6 +25,6 @@ def shift_with_args(array)
 end
 
 def using_concat (my_favorite_things, more_favs)
-  my_favorite_things = [my_favorite_things] + [more_favs]
+  my_favorite_things = [my_favorite_things + more_favs]
 end
   
