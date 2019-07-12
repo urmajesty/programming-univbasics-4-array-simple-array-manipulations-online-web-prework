@@ -26,6 +26,6 @@ end
 
 def using_concat (my_favorite_things, more_favs)
   all_my_favs = (my_favorite_things + more_favs)
-  p my_favorite_things
+  p all_my_favs
 end
   
