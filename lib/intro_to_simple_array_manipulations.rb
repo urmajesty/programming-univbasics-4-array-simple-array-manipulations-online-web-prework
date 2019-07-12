@@ -24,5 +24,5 @@ def shift_with_args(array)
   return brands_removed
 end
 
-def using_concat (array, other_array)
+def using_concat (my_favorite_things, more_favs)
   
